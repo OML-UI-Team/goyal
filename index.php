@@ -25,25 +25,9 @@ include('components/header.php') ?>
                                 </div>
                             </div>
                             <!-- end slider item -->
-                            <!-- start slider item -->
-
-                            <div class="swiper-slide home-slide cover-background slider2">
-                                <div class="opacity-light opacity-6 bg-extra-dark-gray"></div>
-                                <div class="container h-100">
-                                    <div class="row justify-content-start h-100 wow slideInLeft" data-wow-delay="0.3s">
-                                        <div class="col-12 col-lgxl-7 col-lg-8 d-flex flex-column justify-content-center h-100 text-left pd-t-10-dsktp">
-                                            <h2 class="alt-font font-weight-300 text-white margin-4-rem-bottom">Good Vision <br> <span class="font-weight-600" style="color:#fff !important">Without Spectacles</span></h2>
-                                            <div class="btn-dual">
-                                                <a href="all-services.php" class="btn btn-fancy btn-medium btn-fast-yellow btn-round-edge margin-25px-right d-table d-sm-inline-block xs-margin-auto-lr xs-margin-15px-bottom">Explore services</a>
-                                                <a href="book-an-appointment.php" class="btn btn-fancy btn-medium btn-transparent-white btn-round-edge d-table d-sm-inline-block xs-margin-auto-lr">Book an Appointment<i class="fa fa-arrow-right right-icon"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end slider item -->
-                            <!-- start slider item -->
-                             <div class="swiper-slide home-slide cover-background slider3">
+                            
+                             <!-- start slider item -->
+                             <div class="swiper-slide home-slide cover-background slider2">
                                 <div class="opacity-light opacity-6 bg-extra-dark-gray"></div>
                                 <div class="container h-100">
                                     <div class="row justify-content-start h-100 wow slideInLeft" data-wow-delay="0.3s">
@@ -58,6 +42,25 @@ include('components/header.php') ?>
                                 </div>
                             </div> 
                             <!-- end slider item -->
+                            
+                            <!-- start slider item -->
+
+                            <div class="swiper-slide home-slide cover-background slider3">
+                                <div class="opacity-light opacity-6 bg-extra-dark-gray"></div>
+                                <div class="container h-100">
+                                    <div class="row justify-content-start h-100 wow slideInLeft" data-wow-delay="0.3s">
+                                        <div class="col-12 col-lgxl-7 col-lg-8 d-flex flex-column justify-content-center h-100 text-left pd-t-10-dsktp">
+                                            <h2 class="alt-font font-weight-300 text-white margin-4-rem-bottom">Good Vision <br> <span class="font-weight-600" style="color:#fff !important">Without Spectacles</span></h2>
+                                            <div class="btn-dual">
+                                                <a href="all-services.php" class="btn btn-fancy btn-medium btn-fast-yellow btn-round-edge margin-25px-right d-table d-sm-inline-block xs-margin-auto-lr xs-margin-15px-bottom">Explore services</a>
+                                                <a href="book-an-appointment.php" class="btn btn-fancy btn-medium btn-transparent-white btn-round-edge d-table d-sm-inline-block xs-margin-auto-lr">Book an Appointment<i class="fa fa-arrow-right right-icon"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end slider item -->
+                           
                         </div>
                         <!-- start slider arrow -->
                         <!--<div class="swiper-button-next-nav swiper-button-next rounded-circle slider-navigation-style-07 dark"><i class="ti-arrow-right text-extra-small"></i></div>

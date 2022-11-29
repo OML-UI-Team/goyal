@@ -8,8 +8,7 @@ include('components/header.php') ?>
     <div class="container position-relative">
         <div class="row full-screen md-h-800px sm-h-500px">
             <div class="col-12 col-xl-8 col-lg-8 col-md-8 col-sm-6 d-flex flex-column justify-content-center">
-                <h1 class="banner-title font-weight-600 letter-spacing-minus-2px w-80">Expert paediatric care
-                    at<span>Goyal eye</span></h1>
+            <h1 class="banner-title font-weight-600 letter-spacing-minus-2px w-80"><span>Red & Bloodshot Eyes:</span> Common Causes & Treatment</h1>
                 <div class="d-inline-block banner-btn">
                     <!-- <a href="book-an-appointment.php" class="btn section-link btn-fancy btn-large btn-round-edge btn-iris-blue margin-35px-right xs-margin-20px-bottom">Book an Appointment</a> -->
                     <span

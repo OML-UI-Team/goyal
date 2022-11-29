@@ -8,8 +8,7 @@ include('components/header.php') ?>
     <div class="container position-relative">
         <div class="row full-screen md-h-800px sm-h-500px">
             <div class="col-12 col-xl-8 col-lg-8 col-md-8 col-sm-6 d-flex flex-column justify-content-center">
-                <h1 class="banner-title font-weight-600 letter-spacing-minus-2px w-80">Expert paediatric care
-                    at<span>Goyal eye</span></h1>
+                <h1 class="banner-title font-weight-600 letter-spacing-minus-2px w-80"><span>Dry Eyes:</span> Symptoms, Causes & Treatment</h1>
                 <div class="d-inline-block banner-btn">
                     <!-- <a href="book-an-appointment.php" class="btn section-link btn-fancy btn-large btn-round-edge btn-iris-blue margin-35px-right xs-margin-20px-bottom">Book an Appointment</a> -->
                     <span
@@ -175,7 +174,7 @@ Ageing</li>
 <li><i class="fas fa-check text-extra-medium-gray"></i> Eye irritation</li>
 <li><i class="fas fa-check text-extra-medium-gray"></i> Contaminants in topical eye drops</li>
 <li><i class="fas fa-check text-extra-medium-gray"></i> Smoke, wind, or dry air</li>
-<li><i class="fas fa-check text-extra-medium-gray"></i> Lack of vitamin a</li>
+<li><i class="fas fa-check text-extra-medium-gray"></i> Lack of vitamin A</li>
 </ul>
 <p>Although the symptoms of dry eyes associated with this technique are typically transient, corneal nerve desensitivity is brought on by using contact lenses, nerve injury, or laser eye surgery.</p>
 </div>

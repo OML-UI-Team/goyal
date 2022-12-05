@@ -19967,7 +19967,11 @@ input[type="checkbox"].error {
 .feature-box .feature-box-content p { font-size: 16px; line-height: 28px; }
  
 .ab-institute h3 span { color: #1d629a; }
-.ab-institute p { font-size: 16px; color: #333; line-height: 26px; }
+.ab-institute p {
+  font-size: 18px;
+  color: #828282;
+  line-height: 26px;
+} 
 .team-style-01 .team-overlay, .team-style-01 figure figcaption span.team-sub-title {
   color: #fff; font-size: 15px; line-height: 20px; padding: 8px 0 12px;
   }

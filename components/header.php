@@ -89,9 +89,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <li class="nav-item dropdown simple-dropdown">
                                     <span class="nav-link">Eye Issues <i class="fas fa-angle-down dropdown-toggle"></i></span>
                                         <ul class="dropdown-menu">
-                                            <li><a href="red-eye.php">Red Eye</a></li>
+                                            <li><a href="red-eye.php">Red Eyes</a></li>
                                             <li><a href="dry-eyes.php">Dry Eyes</a></li>
-                                            <li><a href="blury-vision.php">Blury Vision</a></li>
+                                            <!-- <li><a href="blury-vision.php">Blury Vision</a></li> -->
                                             
                                         </ul>
                                 </li>

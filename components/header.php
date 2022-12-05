@@ -86,28 +86,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <a href="about-us.php" class="nav-link">About Us</a>
                                 </li>
                                 
-                                <!-- <li class="nav-item dropdown simple-dropdown">
-                                    <span class="nav-link">Specialties <i class="fas fa-angle-down dropdown-toggle"></i></span>
-                                        <ul class="dropdown-menu">
-                                            <li class="dropdown"><a href="cataract.php">Cataract<i class="fas fa-angle-right dropdown-toggle"></i></a>
-                                                <ul class="dropdown-menu">
-                                                    <li>lorem</li>
-                                                    <li>lorem</li>
-                                                    <li>lorem</li>
-                                                    <li>lorem</li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="retina.php">Retina</a></li>
-                                            <li><a href="specs-removal.php">Specs Removal</a></li>
-                                            <li><a href="cornea.php">Cornea</a></li>
-                                            <li><a href="glaucoma.php">Glaucoma</a></li>
-                                            <li><a href="paediatric-ophthalmology.php">Squint &amp; Pediatric Ophthal</a></li>
-                                            <li><a href="oculoplasty.php">Oculoplasty</a></li>
-                                            <li><a href="all-services.php">List of All Services</a></li>
-                                        </ul>
-                                </li> -->
                                 <li class="nav-item dropdown simple-dropdown">
-                                    <a href="#" class="nav-link">Specialties</a>
+                                    <span class="nav-link">Eye Issues <i class="fas fa-angle-down dropdown-toggle"></i></span>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="red-eye.php">Red Eyes</a></li>
+                                            <li><a href="dry-eyes.php">Dry Eyes</a></li>
+                                            <!-- <li><a href="blury-vision.php">Blury Vision</a></li> -->
+                                            
+                                        </ul>
+                                </li>
+                                <li class="nav-item dropdown simple-dropdown">
+                                    <a href="#" class="nav-link">Specialties <i class="fas fa-angle-down dropdown-toggle"></i></a>
                                     <i class="fa fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                     <ul class="dropdown-menu" role="menu">
                                         <li class="dropdown">
